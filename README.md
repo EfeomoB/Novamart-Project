@@ -1,7 +1,8 @@
 <img width="1080" height="1080" alt="Novamart Picture" src="https://github.com/user-attachments/assets/d24c84ec-1710-4de7-8bcb-c0e32bb2b280" />
 
 NovaMart Capstone Project – Customer & Product Insights
-Overview
+
+**Overview**
 
 NovaMart, a Nigerian subscription-based company, struggled with unclear bundle profitability, failed payments, scattered feedback, and no customer segmentation. This project used SQL and Power BI to uncover insights and deliver data-driven recommendations that improved retention, revenue, and efficiency.
 
@@ -25,7 +26,7 @@ Scattered customer feedback & ticket ratings
 
 Lack of standardized KPIs for monitoring
 
-Key Insights
+**Key Insights**
 
 Top Bundles – Certain bundles dominated revenue while others underperformed
 
@@ -37,7 +38,7 @@ Regional Trends – Few cities drove most subscriptions
 
 Feedback Issues – Unresolved complaints led to poor ratings & churn
 
-Recommendations
+**Recommendations**
 
 Focus marketing on top bundles, restructure weak ones
 
@@ -51,7 +52,7 @@ Enhance support resolution to boost satisfaction & retention
 
 Standardize KPIs (ARPU, churn, bundle profitability, payment success)
 
-Dashboard Highlights
+**Dashboard Highlights**
 
 Revenue by category & bundle size
 
@@ -63,7 +64,7 @@ Loyalty-tier spend distribution
 
 Ticket ratings vs resolution status
 
-Impact
+**Impact**
 
 This project transformed NovaMart’s raw data into a strategic blueprint, enabling data-driven decisions that strengthen customer loyalty, optimize operations, and unlock sustainable growth.
 This project demonstrates end-to-end Business Intelligence skills—from SQL data exploration to Power BI dashboards and actionable business recommendations.
